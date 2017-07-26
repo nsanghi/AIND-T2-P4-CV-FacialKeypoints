@@ -22,6 +22,9 @@ __Part 3__ : Putting parts 1 and 2 together to identify facial keypoints on any 
 You'll also be given *optional* exercises that allow you to extend this project so that it works on video and allows you to implement fun face filters in real-time!
 
 
+### `CV_project.ipynb` contains the notebook with complete implementation. `Report.html` contains the html version of the notebook.
+
+
 ## Project Instructions
 
 All of the starting code and resources you'll need to compete this project are in a Github repo! Before you can get stared coding, you'll have to make sure that you have all the libraries and dependencies required to support this project.
